@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\vehicle-tester-simulator\\VehicleTesterSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}|VehicleTesterSimulator.csproj|c:\\source\\vehicle-tester-simulator\\vehicletestersimulator\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}|VehicleTesterSimulator.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}|VehicleTesterSimulator.csproj|c:\\source\\vehicle-tester-simulator\\vehicletestersimulator\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}|VehicleTesterSimulator.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}|..\\Common\\Common.csproj|c:\\source\\vehicle-tester-simulator\\common\\resources\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}|..\\Common\\Common.csproj|c:\\source\\vehicle-tester-simulator\\common\\resources\\resources.es.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}|..\\Common\\Common.csproj|c:\\source\\vehicle-tester-simulator\\common\\enums\\enumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.es.Designer.cs",
+              "DocumentMoniker": "C:\\Source\\vehicle-tester-simulator\\Common\\Resources\\Resources.es.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Resources\\Resources.es.Designer.cs",
+              "ToolTip": "C:\\Source\\vehicle-tester-simulator\\Common\\Resources\\Resources.es.Designer.cs",
+              "RelativeToolTip": "..\\Common\\Resources\\Resources.es.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:57:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Source\\vehicle-tester-simulator\\Common\\Resources\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Resources\\Resources.Designer.cs",
+              "ToolTip": "C:\\Source\\vehicle-tester-simulator\\Common\\Resources\\Resources.Designer.cs",
+              "RelativeToolTip": "..\\Common\\Resources\\Resources.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:57:46.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Source\\vehicle-tester-simulator\\VehicleTesterSimulator\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Source\\vehicle-tester-simulator\\VehicleTesterSimulator\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:40:41.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Source\\vehicle-tester-simulator\\VehicleTesterSimulator\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Source\\vehicle-tester-simulator\\VehicleTesterSimulator\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:34:56.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enumerator.cs",
+              "DocumentMoniker": "C:\\Source\\vehicle-tester-simulator\\Common\\Enums\\Enumerator.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Enums\\Enumerator.cs",
+              "ToolTip": "C:\\Source\\vehicle-tester-simulator\\Common\\Enums\\Enumerator.cs",
+              "RelativeToolTip": "..\\Common\\Enums\\Enumerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:51:00.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

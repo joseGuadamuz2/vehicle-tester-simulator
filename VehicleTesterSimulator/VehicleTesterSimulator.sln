@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleTesterSimulator", "VehicleTesterSimulator.csproj", "{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\Common\Common.csproj", "{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C17629-D816-4C59-B6DA-A7BFEDEE90F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A86FBEC-8EA7-4B75-B523-F2031DC82E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5B4BB5-7C1A-4375-887C-74D1D9D1F142}
+	EndGlobalSection
+EndGlobal
